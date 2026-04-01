@@ -1,9 +1,4 @@
 # 🚀 Advanced Python and Its Applications
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 A collection of advanced Python projects demonstrating real-world applications using Object-Oriented Programming (OOP), automation, and efficient problem-solving techniques.
 
 ---
