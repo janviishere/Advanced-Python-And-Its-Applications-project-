@@ -66,6 +66,3 @@ Advanced-Python-And-Its-Applications/
 * Optimize performance
 
 
-
-⭐ *If you like this project, consider giving it a star!*
-
